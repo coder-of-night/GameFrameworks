@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\UserRankList\UserRankList\obj\Debug\UserRankList.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\UserRankList\UserRankList\bin\Debug\UserRankList.exe.config
+C:\Users\Administrator\source\repos\UserRankList\UserRankList\bin\Debug\UserRankList.exe
+C:\Users\Administrator\source\repos\UserRankList\UserRankList\bin\Debug\UserRankList.pdb
+C:\Users\Administrator\source\repos\UserRankList\UserRankList\obj\Debug\UserRankList.exe
+C:\Users\Administrator\source\repos\UserRankList\UserRankList\obj\Debug\UserRankList.pdb
+C:\Users\Administrator\source\repos\UserRankList\UserRankList\obj\Debug\UserRankList.csprojResolveAssemblyReference.cache
